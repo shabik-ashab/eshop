@@ -2,18 +2,18 @@
   
 export const sliderItems = [
     {
-      id: 1,
+        id: 1,
+        img: "https://i.ibb.co/DG69bQ4/2.png",
+        title: "AUTUMN COLLECTION",
+        desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        bg: "fcf1ed",
+      },
+    {
+      id: 2,
       img: "https://i.ibb.co/0M0KyBN/shopping-girl.webp",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
-    },
-    {
-      id: 2,
-      img: "https://i.ibb.co/DG69bQ4/2.png",
-      title: "AUTUMN COLLECTION",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-      bg: "fcf1ed",
     },
     {
       id: 3,
